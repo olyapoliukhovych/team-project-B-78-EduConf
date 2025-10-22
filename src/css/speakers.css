@@ -60,3 +60,15 @@
   flex-direction: row;
   gap: 14px;
 }
+
+/* .speakers-list.icon:hover,
+.speakers-list.icon:focus {
+  fill: var(--color-scheme-1-accent);
+  transition: color 250ms linear;
+} */
+
+.social-link:hover,
+.social-link:focus {
+  fill: var(--color-scheme-1-accent);
+  transition: fill 250ms linear;
+}

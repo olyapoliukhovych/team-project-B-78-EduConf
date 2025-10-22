@@ -69,7 +69,6 @@
     transition: color 250ms linear;
   }
 
-  .header-nav-link::after,
   .header-nav-link::after {
     content: '';
     position: absolute;
