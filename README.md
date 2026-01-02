@@ -30,3 +30,6 @@ A modern, responsive single-page website designed for educational conferences. T
 
 ## 📸 Preview
 <img width="1430" height="685" alt="educonf-preview" src="https://github.com/user-attachments/assets/01132bfd-f642-4a1e-ad33-0919151b23d3" />
+
+## 🏆 Our Success
+<img width="1436" height="594" alt="educonf-presentation" src="https://github.com/user-attachments/assets/dfe3f362-f40a-4668-8ba0-410e8ea20959" />
